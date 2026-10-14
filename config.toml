@@ -1,0 +1,2 @@
+[functions.send-welcome]
+verify_jwt = true
